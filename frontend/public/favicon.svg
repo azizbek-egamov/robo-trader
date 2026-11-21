@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#070a12"/>
+  <rect x="1" y="1" width="62" height="62" rx="13" stroke="#dc2626" stroke-width="2" stroke-opacity="0.8"/>
+  <!-- Gold Bull Candlestick -->
+  <line x1="20" y1="12" x2="20" y2="52" stroke="#f59e0b" stroke-width="2" stroke-linecap="round"/>
+  <rect x="16" y="20" width="8" height="22" rx="2" fill="#f59e0b"/>
+  <!-- Red Bear Candlestick -->
+  <line x1="44" y1="12" x2="44" y2="52" stroke="#dc2626" stroke-width="2" stroke-linecap="round"/>
+  <rect x="40" y="26" width="8" height="18" rx="2" fill="#dc2626"/>
+  <!-- Modern Geometric Center XF Cross -->
+  <path d="M26 22L38 42" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M38 22L26 42" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round"/>
+</svg>
